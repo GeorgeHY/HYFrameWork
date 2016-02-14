@@ -1,0 +1,18 @@
+//
+//  HYFrameWork-Prefix.pch
+//  HYFrameWork
+//
+//  Created by GE on 16/2/14.
+//  Copyright © 2016年 HY. All rights reserved.
+//
+
+#ifndef HYFrameWork_Prefix_pch
+#define HYFrameWork_Prefix_pch
+
+
+#import "Masonry.h"
+#import "AppDelegate.h"
+#import "HYMacro.h"
+#import "AFNetworking.h"
+
+#endif
