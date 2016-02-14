@@ -1,0 +1,72 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/GE/Library/Developer/Xcode/DerivedData/ModuleCache
+-fbuild-session-file=/Users/GE/Library/Developer/Xcode/DerivedData/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG=1
+-DCOCOAPODS=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.2.sdk
+-fasm-blocks
+-mios-simulator-version-min=9.2
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-iquote
+-iquote
+-iquote.
+-iquoteBuild
+-iquoteHYFrameWork
+-iquoteHYFrameWork.xcworkspace
+-iquotePods
+-iquoteHYFrameWork.xcworkspace/xcuserdata
+-iquotePods/AFNetworking
+-iquotePods/Headers
+-iquotePods/Local Podspecs
+-iquotePods/Masonry
+-iquotePods/MMPlaceHolder
+-iquotePods/Target Support Files
+-iquoteHYFrameWork.xcworkspace/xcuserdata/GE.xcuserdatad
+-iquotePods/AFNetworking/AFNetworking
+-iquotePods/AFNetworking/UIKit+AFNetworking
+-iquotePods/Headers/Private
+-iquotePods/Headers/Public
+-iquotePods/Masonry/Masonry
+-iquotePods/MMPlaceHolder/MMPlaceHolder
+-iquotePods/Target Support Files/AFNetworking
+-iquotePods/Target Support Files/Masonry
+-iquotePods/Target Support Files/MMPlaceHolder
+-iquotePods/Target Support Files/Pods
+-iquotePods/Headers/Private/AFNetworking
+-iquotePods/Headers/Private/Masonry
+-iquotePods/Headers/Private/MMPlaceHolder
+-iquotePods/Headers/Public/AFNetworking
+-iquotePods/Headers/Public/Masonry
+-iquotePods/Headers/Public/MMPlaceHolder
+-I/Users/GE/Music/HYFrameWork/Build/Products/Debug-iphonesimulator/include
+-I/Users/GE/Music/HYFrameWork/Pods/Headers/Public
+-I/Users/GE/Music/HYFrameWork/Pods/Headers/Public/AFNetworking
+-I/Users/GE/Music/HYFrameWork/Pods/Headers/Public/MMPlaceHolder
+-I/Users/GE/Music/HYFrameWork/Pods/Headers/Public/Masonry
+-F/Users/GE/Music/HYFrameWork/Build/Products/Debug-iphonesimulator
+-isystem
+/Users/GE/Music/HYFrameWork/Pods/Headers/Public
+-isystem
+/Users/GE/Music/HYFrameWork/Pods/Headers/Public/AFNetworking
+-isystem
+/Users/GE/Music/HYFrameWork/Pods/Headers/Public/MMPlaceHolder
+-isystem
+/Users/GE/Music/HYFrameWork/Pods/Headers/Public/Masonry
+x86_64-apple-darwin15.2.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=13C75
+13C75
